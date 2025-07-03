@@ -62,6 +62,7 @@ I specialize in React.js and modern web development technologies.
 </p>
 
 <p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=raazijawad&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=raazijawad&theme=radical&hide_border=true" alt="GitHub Streak" />
 </p>
+
 
