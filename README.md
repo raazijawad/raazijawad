@@ -1,4 +1,4 @@
-👋 Hi, I'm Raazi from Sri Lanka — a passionate software developer .
+👋 Hi,  I'm Raazi from Sri Lanka — a passionate software developer .
 I specialize in React.js and modern web development technologies.
 
 🎓 I completed my Diploma and Higher National Diploma (HND) in Software Development from Pearson University, UK.
